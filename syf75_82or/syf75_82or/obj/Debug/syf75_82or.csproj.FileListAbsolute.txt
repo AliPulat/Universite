@@ -1,0 +1,8 @@
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\fordongusu\syf75_82or\syf75_82or\bin\Debug\syf75_82or.exe.config
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\fordongusu\syf75_82or\syf75_82or\bin\Debug\syf75_82or.exe
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\fordongusu\syf75_82or\syf75_82or\bin\Debug\syf75_82or.pdb
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\fordongusu\syf75_82or\syf75_82or\obj\Debug\syf75_82or.csproj.AssemblyReference.cache
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\fordongusu\syf75_82or\syf75_82or\obj\Debug\syf75_82or.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\fordongusu\syf75_82or\syf75_82or\obj\Debug\syf75_82or.csproj.CoreCompileInputs.cache
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\fordongusu\syf75_82or\syf75_82or\obj\Debug\syf75_82or.exe
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\fordongusu\syf75_82or\syf75_82or\obj\Debug\syf75_82or.pdb

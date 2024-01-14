@@ -1,0 +1,8 @@
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\While-Do_While\syf82_odv1\syf82_odv1\bin\Debug\syf82_odv1.exe.config
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\While-Do_While\syf82_odv1\syf82_odv1\bin\Debug\syf82_odv1.exe
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\While-Do_While\syf82_odv1\syf82_odv1\bin\Debug\syf82_odv1.pdb
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\While-Do_While\syf82_odv1\syf82_odv1\obj\Debug\syf82_odv1.csproj.AssemblyReference.cache
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\While-Do_While\syf82_odv1\syf82_odv1\obj\Debug\syf82_odv1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\While-Do_While\syf82_odv1\syf82_odv1\obj\Debug\syf82_odv1.csproj.CoreCompileInputs.cache
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\While-Do_While\syf82_odv1\syf82_odv1\obj\Debug\syf82_odv1.exe
+C:\Users\ali3p\OneDrive\Masaüstü\PROGRAMLAMA TEMELLERİ\FN\While-Do_While\syf82_odv1\syf82_odv1\obj\Debug\syf82_odv1.pdb
