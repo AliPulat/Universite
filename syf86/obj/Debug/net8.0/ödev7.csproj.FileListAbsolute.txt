@@ -1,0 +1,14 @@
+C:\Users\rashit\Desktop\C###\ödev7\bin\Debug\net8.0\ödev7.exe
+C:\Users\rashit\Desktop\C###\ödev7\bin\Debug\net8.0\ödev7.deps.json
+C:\Users\rashit\Desktop\C###\ödev7\bin\Debug\net8.0\ödev7.runtimeconfig.json
+C:\Users\rashit\Desktop\C###\ödev7\bin\Debug\net8.0\ödev7.dll
+C:\Users\rashit\Desktop\C###\ödev7\bin\Debug\net8.0\ödev7.pdb
+C:\Users\rashit\Desktop\C###\ödev7\obj\Debug\net8.0\ödev7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashit\Desktop\C###\ödev7\obj\Debug\net8.0\ödev7.AssemblyInfoInputs.cache
+C:\Users\rashit\Desktop\C###\ödev7\obj\Debug\net8.0\ödev7.AssemblyInfo.cs
+C:\Users\rashit\Desktop\C###\ödev7\obj\Debug\net8.0\ödev7.csproj.CoreCompileInputs.cache
+C:\Users\rashit\Desktop\C###\ödev7\obj\Debug\net8.0\ödev7.dll
+C:\Users\rashit\Desktop\C###\ödev7\obj\Debug\net8.0\refint\ödev7.dll
+C:\Users\rashit\Desktop\C###\ödev7\obj\Debug\net8.0\ödev7.pdb
+C:\Users\rashit\Desktop\C###\ödev7\obj\Debug\net8.0\ödev7.genruntimeconfig.cache
+C:\Users\rashit\Desktop\C###\ödev7\obj\Debug\net8.0\ref\ödev7.dll
