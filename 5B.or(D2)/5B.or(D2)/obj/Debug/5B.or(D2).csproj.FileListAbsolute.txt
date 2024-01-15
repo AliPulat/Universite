@@ -1,0 +1,16 @@
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\Çalışma(D2)\5B.or(D2)\5B.or(D2)\bin\Debug\5B.or(D2).exe.config
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\Çalışma(D2)\5B.or(D2)\5B.or(D2)\bin\Debug\5B.or(D2).exe
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\Çalışma(D2)\5B.or(D2)\5B.or(D2)\bin\Debug\5B.or(D2).pdb
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).csproj.AssemblyReference.cache
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).csproj.SuggestedBindingRedirects.cache
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).csproj.CoreCompileInputs.cache
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).exe
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).pdb
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\İf else Çalışma(D2)\5B.or(D2)\5B.or(D2)\bin\Debug\5B.or(D2).exe.config
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\İf else Çalışma(D2)\5B.or(D2)\5B.or(D2)\bin\Debug\5B.or(D2).exe
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\İf else Çalışma(D2)\5B.or(D2)\5B.or(D2)\bin\Debug\5B.or(D2).pdb
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\İf else Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).csproj.AssemblyReference.cache
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\İf else Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).csproj.SuggestedBindingRedirects.cache
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\İf else Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).csproj.CoreCompileInputs.cache
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\İf else Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).exe
+C:\Users\ali3p\OneDrive\Masaüstü\özel ders\Hocam\İf else Çalışma(D2)\5B.or(D2)\5B.or(D2)\obj\Debug\5B.or(D2).pdb
